@@ -1,4 +1,4 @@
-package com.example.lab08.database
+package com.example.database
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
